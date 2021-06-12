@@ -7,6 +7,7 @@ public class Calculator {
         System.out.println("2 line");
         System.out.println("calc stopped");
         System.out.println("for 1 commit");
+        System.out.println("for 2 commit");
 
     }
 }
